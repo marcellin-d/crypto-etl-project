@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+.env
+.env.*
+
+# Virtual env
+venv/
+.env/
+.envrc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.db
+*.pid
+*.sock
+*.tar
+*.bak
+*.old
+*.gz
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
