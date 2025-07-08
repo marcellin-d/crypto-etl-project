@@ -121,7 +121,7 @@ L’interface permet de visualiser les données extraites, triées et formatées
 
 ## 👨‍💻 Auteur
 
-Marcellin Djambo – Étudiant en Big Data & Analytics
+Marcellin Djambo – Analytics Engineer
 🔗 [LinkedIn](https://www.linkedin.com/in/marcellindjambo) • 📁 [GitHub](https://github.com/marcellin-d)
 
 ---
