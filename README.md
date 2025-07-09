@@ -1,5 +1,3 @@
-Voici le contenu complet et formaté pour ton fichier `README.md` professionnel, prêt à copier-coller dans ton repo :
-
 ````markdown
 # 🚀 Crypto ETL & Analytics Platform
 
