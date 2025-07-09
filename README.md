@@ -48,7 +48,7 @@ Cette application permet de :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-utilisateur/crypto-etl-project.git
+git clone https://github.com/marcellin-d/crypto-etl-project.git
 cd crypto-etl-project
 ```
 
